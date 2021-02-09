@@ -1,0 +1,10 @@
+body{
+  background-color: orange;
+  
+}
+
+
+h1{
+  color: rgb(red, green, rgba(0, 0, 255, 0.733))
+  font-family: 'Courier New', Courier, monospace;
+}
